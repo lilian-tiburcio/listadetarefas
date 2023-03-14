@@ -1,5 +1,5 @@
 html{
-    background: radial-gradient(farthest-corner at right top,#FFFFFF,rgb(241, 221, 233));
+    background: rgba(5, 78, 138, 0.363);
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
@@ -13,16 +13,23 @@ html{
     display: flex;
     border-radius: 10px;
     gap: 2em;
-   background: #d0e7e6;
+   background: #7ea0d4;
    
 }
 
 .principal{
-    margin-inline: 10em 0 10em;
+    width: 75%;
+    height: 70%;
+}
+
+.principal{
+    margin-inline: 15em 15em;
+    margin-top: 8em;
 }
 
 .adicionar {
     width: 100%;
+    padding: 5em;
     
 }
 
@@ -32,7 +39,7 @@ html{
     margin: 0.5em 0 1em;
     padding: 1em 0.5em;
     border-radius: 10px;
-    border: 2px solid #8ac2c2;
+    border: 2px solid #f7f4648f;
 }
 
 .adicionar label {
@@ -40,16 +47,21 @@ html{
 }
 
 .cadastrar {
-        background-color: #a6dbdb;
-        color: #FFFFFF;
+        background-color: #f0df44;
+        color: #000000;
         cursor: pointer;
+        font-family: 'Roboto', sans-serif;
+        font-size: 15px;
     }
     
 
     .titulo {
-        font-family: 'Courier New', Courier, monospace;
+        font-family: 'Annie Use Your Telescope', cursive;
         text-align: center;
         padding: 2px;
+        font-size: 55px;
+        color: #4d73ac;
+        font-weight: 700;
     }
 
     .lista {
@@ -72,12 +84,19 @@ html{
     }
 
     .item strong {
-        border-radius: 50%;
+        border-radius: 60%;
         display: flex;
         align-items: center;
         justify-content: center;
-        width: 40px;
-        height: 40px;
-        Background: #ebc1d4;
+        width: 60px;
+        height: 60px;
+        Background: #f9fc68;
         font-weight: 400;
     }
+    
+.cadastrar:hover{
+    border-radius: 30px;
+    background:#e3e655;
+
+}
+

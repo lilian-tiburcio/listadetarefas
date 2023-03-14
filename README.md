@@ -14,3 +14,7 @@
 <p>Ao acessar o site do Lista de Tarefas, você pdoerá usar o campo Nome para inserir a tarefa,objeto, ou o item desejado a ser executado e na opção quantidade, irá inserir a quantidade necessária referente a tarefa.</p>
 
 🥛 Exemplo: Leite - 5
+
+<h1>Onde acessar?</h1>
+
+Link do projeto: https://lilian-tiburcio.github.io/listadetarefas/

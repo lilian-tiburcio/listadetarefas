@@ -1,6 +1,6 @@
 <h1 align="center">Lista de Tarefas</h1>
 
-![Meu projeto2](https://user-images.githubusercontent.com/112278577/218167282-48cf1d81-2433-4924-a9a9-bb31bec75335.png)
+![image](https://user-images.githubusercontent.com/112278577/225151719-86df19b0-3d53-4d22-9c8f-e5f00c9d81e1.png)
 
 <h2>Descrição do Projeto</h2>
 

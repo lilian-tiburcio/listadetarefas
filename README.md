@@ -15,6 +15,6 @@
 
 🥛 Exemplo: Leite - 5
 
-<h1>Onde acessar?</h1>
+<h2>Onde acessar?</h2>
 
 Link do projeto: https://lilian-tiburcio.github.io/listadetarefas/
